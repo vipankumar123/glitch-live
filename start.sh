@@ -1,4 +1,4 @@
-pip install -r requiremnets.txt
+pip3 install -r requiremnets.txt
 
 #run the fastapi app with uvicorn
 
